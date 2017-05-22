@@ -3,6 +3,7 @@ import os
 import bcolz
 import numpy as np
 import pandas as pd
+
 from zipline.utils.sentinel import sentinel
 
 
